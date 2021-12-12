@@ -1,4 +1,4 @@
-# guide blog url : [이동](http://codevkr.tistory.com/31?category=719250)
+# guide blog url : [](https://blog.naver.com/ykycome00/221324110555)
 
 # KakaoChatBot
 
