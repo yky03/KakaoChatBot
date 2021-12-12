@@ -1,4 +1,4 @@
-# guide blog url : [](https://blog.naver.com/ykycome00/221324110555)
+# guide blog url : [Click](https://blog.naver.com/ykycome00/221324110555)
 
 # KakaoChatBot
 
